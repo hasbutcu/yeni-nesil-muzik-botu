@@ -1,6 +1,6 @@
 # Discord Müzik Botu
 
-![Bot Logosu](https://via.placeholder.com/150)  
+
 **discord.js** ve **discord-player** ile geliştirilmiş güçlü ve zengin özelliklere sahip bir Discord müzik botu. Bu bot, kullanıcıların Discord sunucularında müzik çalmasına, çalma listelerini yönetmesine, ses efektleri uygulamasına ve daha fazlasına olanak tanır.
 
 ---
