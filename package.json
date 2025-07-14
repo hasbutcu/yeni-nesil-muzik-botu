@@ -1,0 +1,25 @@
+{ 
+    "name": "oxy-music",
+    "main": "main.js",
+    "author": "OxyDev",
+    "version": "8.0.0",
+    "description": "discord.gg/vsc",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "dependencies": {
+        "@discord-player/extractor": "^4.3.1",
+        "@discordjs/opus": "^0.9.0",
+        "@distube/ytdl-core": "^4.11.8",
+        "@evan/opus": "^1.0.3",
+        "bgutils-js": "^3.2.0",
+        "discord-player": "6.6.9-dev.1",
+        "discord-player-youtubei": "^1.3.3",
+        "discord.js": "^14.13.0",
+        "dotenv": "^16.4.5",
+        "ffmpeg-static": "^5.0.2",
+        "ms": "^3.0.0-canary.1",
+        "play-dl": "^1.9.6",
+        "translate": "^3.0.0"
+    }
+}
