@@ -1,3 +1,3 @@
-# 30 STARDA PAYLAŞILICAK
+# starla
 
 discord.gg/vsc
