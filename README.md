@@ -1,2 +1,3 @@
-# yeni-nesil-muzik-bot
-yeni-nesil-muzik-bot
+# 30 STARDA PAYLAŞILICAK
+
+discord.gg/vsc
